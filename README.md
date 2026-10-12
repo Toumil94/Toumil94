@@ -10,6 +10,8 @@ Je cherche mon prochain poste en **Data Engineering, BI ou IA** à Genève et en
 | Projet | En bref | Stack |
 |---|---|---|
 | [**cff-ponctualite**](https://github.com/Toumil94/cff-ponctualite) | Les trains suisses sont-ils à l'heure ? Pipeline quotidien sur les données officielles, modèle en étoile testé, [dashboard en ligne](https://cff-ponctualite.netlify.app). | SQL, dbt, DuckDB, GitHub Actions |
+| [**assistant-rag-suisse**](https://github.com/Toumil94/assistant-rag-suisse) | Un assistant pour les nouveaux arrivants et les frontaliers : réponses tirées des pages officielles suisses, sources citées, recherche évaluée sur 40 questions. [Démo](https://assistant-suisse.netlify.app). | RAG, Claude API, BM25, serverless |
+| [**job-hunter-ai**](https://github.com/Toumil94/job-hunter-ai) | Mon assistant de recherche d'emploi : collecte d'offres, score IA, lettres personnalisées, rapport quotidien. | Python, Claude API, GitHub Actions |
 | [**Portfolio**](https://toumilyes.netlify.app) | Mon parcours, mes projets et mes certifications. | HTML, CSS, JavaScript |
 
 #### Ce que j'utilise
@@ -24,7 +26,7 @@ Azure Data Fundamentals (DP-900) · Databricks Fundamentals · Databricks Genera
 
 #### Me contacter
 
-[Portfolio](https://toumilyes.netlify.app) · [LinkedIn](https://www.linkedin.com/in/lyes-toumi) · toumilyes15@gmail.com
+[Portfolio](https://toumilyes.netlify.app) · [LinkedIn](https://www.linkedin.com/in/lyes-toumi/) · toumilyes15@gmail.com
 
 ---
 
