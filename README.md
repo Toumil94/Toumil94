@@ -10,6 +10,7 @@ Je cherche mon prochain poste en **Data Engineering, BI ou IA** à Genève et en
 | Projet | En bref | Stack |
 |---|---|---|
 | [**cff-ponctualite**](https://github.com/Toumil94/cff-ponctualite) | Les trains suisses sont-ils à l'heure ? Pipeline quotidien sur les données officielles, modèle en étoile testé, [dashboard en ligne](https://cff-ponctualite.netlify.app). | SQL, dbt, DuckDB, GitHub Actions |
+| [**analyse-bi-suisse**](https://github.com/Toumil94/analyse-bi-suisse) | Projet BI et Business Analysis sur le tourisme hôtelier suisse : cahier des charges, KPI, modèle en étoile testé, rapport Power BI en DAX, recette et [note de recommandations](https://github.com/Toumil94/analyse-bi-suisse/blob/main/docs/05_recommandations.md). | Power BI, DAX, Power Query, Python |
 | [**assistant-rag-suisse**](https://github.com/Toumil94/assistant-rag-suisse) | Un assistant pour les nouveaux arrivants et les frontaliers : réponses tirées des pages officielles suisses, sources citées, recherche évaluée sur 40 questions. [Démo](https://assistant-suisse.netlify.app). | RAG, LLM open source (Groq), BM25, serverless |
 | [**job-hunter-ai**](https://github.com/Toumil94/job-hunter-ai) | Mon assistant de recherche d'emploi : collecte d'offres, score IA, lettres personnalisées, rapport quotidien. | Python, LLM (Groq), GitHub Actions |
 | [**Portfolio**](https://toumilyes.netlify.app) | Mon parcours, mes projets et mes certifications. | HTML, CSS, JavaScript |
